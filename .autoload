@@ -1,0 +1,20 @@
+#
+# Created:      1458 060714
+# Description:  autoload file for django_dellelce_net
+#
+# vim:syntax=sh
+#
+
+## FUNCTIONS ##
+
+## ENV ##
+#
+#
+export x=""
+
+## MAIN ##
+
+# enter your code here
+
+## EOF ##
+
